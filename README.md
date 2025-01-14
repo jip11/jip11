@@ -57,7 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jip11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jip11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jip11&theme=github_dark&hide_border=true&bg_color=161b22&hide_rank=true&show_icons=true&count_private=true" alt="GitHub Stats"/>
 </div>
 
 ###
