@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">My name is Jip.<br><br>-  Im currently learning software engineering in high school<br>
+<p align="left">My name is Jip.<br><br>-  Im currently learning software engineering at Pollák Antal Technikum<br>
 
 ###
 
