@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
+  <p align="center"><a target="_blank" rel="noopener noreferrer"><img height="40" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 </div>
 
 ###
@@ -57,8 +57,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jip11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jip11&theme=github_dark&hide_border=true&bg_color=161b22&hide_rank=true&show_icons=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jip11&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=10&theme=midnight-purple&hide_border=false&order=2" height="195" alt="languages graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jip11&theme=github_dark&hide_border=false&bg_color=6b5012&hide_rank=false&show_icons=true&count_private=true" alt="GitHub Stats"/>
 </div>
 
 ###
